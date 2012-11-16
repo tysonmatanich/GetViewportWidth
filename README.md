@@ -2,7 +2,7 @@
 
 Allows you to get the width of the viewport using JavaScript.
 
-* Author: Tyson Matanich
+* Author: Tyson Matanich - http://matanich.com
 * License: MIT
 
 ## Size and delivery
