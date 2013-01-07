@@ -1,4 +1,8 @@
-﻿# GetViewportWidth
+﻿## Moved to http://github.com/tysonmatanich/viewportSize
+
+If you are using this repo it will no longer be maintained, please instead use viewportSize which also allows you to get the viewport height.
+
+# GetViewportWidth
 
 Allows you to get the width of the viewport using JavaScript. Most people rely on window.innerWidth or document.documentElement.clientWidth which do not always accurately report the viewport width used in CSS media queries. For example the viewport width in Chrome changes depending on if scrollbars are visible however window.innerWidth does not. Script uses feature detection instead of relying on user agent detection.
 
