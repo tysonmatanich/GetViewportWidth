@@ -9,7 +9,7 @@ Allows you to get the width of the viewport using JavaScript. Most people rely o
 * Author: Tyson Matanich - http://matanich.com
 * License: MIT
 
-Demo URL: http://tysonmatanich.github.com/GetViewportWidth/
+Demo URL: http://tysonmatanich.github.io/GetViewportWidth/
 
 ## Size and delivery
 
